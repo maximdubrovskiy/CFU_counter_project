@@ -1,0 +1,7 @@
+
+nc: 1
+names: ["colony"]
+path: dataset_yolo
+train: images/train/
+val: images/valid/
+test: images/valid/
